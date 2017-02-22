@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="77208428186453"
+    token="2307921497146755402"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="990" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="344" />
+    <task
+        name="verifier"
+        duration="151" />
+
+    <artifact
+        location="C:\Users\Johan\Desktop\CST 2335\Labs\restfulCachingProviderContacts\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="77208428186453"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Johan\Desktop\CST 2335\Labs\restfulCachingProviderContacts\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

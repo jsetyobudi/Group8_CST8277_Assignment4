@@ -1,0 +1,7 @@
+#Tue Dec 06 11:02:25 EST 2016
+base.0=C\:\\Users\\Johan\\Desktop\\CST 2335\\Labs\\restfulCachingProviderContacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fa96624c179692e1e88d97f2fa6f9f0b89ea2532
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Johan\\Desktop\\CST 2335\\Labs\\restfulCachingProviderContacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b131076d8ee6466a7f4d80c2d5d00dced54b55cf\\classes.dex
+base.1=C\:\\Users\\Johan\\Desktop\\CST 2335\\Labs\\restfulCachingProviderContacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b131076d8ee6466a7f4d80c2d5d00dced54b55cf
+file.0=C\:\\Users\\Johan\\Desktop\\CST 2335\\Labs\\restfulCachingProviderContacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fa96624c179692e1e88d97f2fa6f9f0b89ea2532\\classes.dex

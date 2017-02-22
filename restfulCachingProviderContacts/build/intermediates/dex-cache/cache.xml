@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Johan\Desktop\CST 2335\Labs\restfulCachingProviderContacts\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f223d1024c71e151c4a77d70eaf2783adb3d69fa">
+        <dex dex="C:\Users\Johan\Desktop\CST 2335\Labs\restfulCachingProviderContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fa96624c179692e1e88d97f2fa6f9f0b89ea2532\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Johan\Desktop\CST 2335\Labs\restfulCachingProviderContacts\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8effe5e8215c8ffe9908b8f64754223b1fc0e54b">
+        <dex dex="C:\Users\Johan\Desktop\CST 2335\Labs\restfulCachingProviderContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b131076d8ee6466a7f4d80c2d5d00dced54b55cf\classes.dex" />
+    </item>
+
+</items>
